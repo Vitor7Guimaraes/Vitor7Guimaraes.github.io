@@ -1,2 +1,2 @@
-# Vitor7Guimaraes.github.io
+# VitorGuimaraes.github.io
 My first site.
